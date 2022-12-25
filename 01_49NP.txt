@@ -54,3 +54,8 @@ https://images.neopets.com/items/mmat_obsidian.gif
 https://images.neopets.com/items/toy_shoyru_gum_shock.gif
 https://images.neopets.com/items/plu_check_faeblumaroo.gif
 https://images.neopets.com/items/plu_water_faeusul.gif
+https://images.neopets.com/items/potion33.gif
+https://images.neopets.com/items/jel_lemon_whole.gif
+https://images.neopets.com/items/vor_rotten_left_shoe.gif
+https://images.neopets.com/items/clo_wocky_detective_shoes.gif
+https://images.neopets.com/items/jel_waterjelly.gif
