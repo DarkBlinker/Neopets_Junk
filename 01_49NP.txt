@@ -59,3 +59,16 @@ https://images.neopets.com/items/jel_lemon_whole.gif
 https://images.neopets.com/items/vor_rotten_left_shoe.gif
 https://images.neopets.com/items/clo_wocky_detective_shoes.gif
 https://images.neopets.com/items/jel_waterjelly.gif
+https://images.neopets.com/items/magic_mote_bubble.gif
+https://images.neopets.com/items/woodblockingshield.gif
+https://images.neopets.com/items/tiki_surfboardkeyring.gif
+https://images.neopets.com/items/tom_gooseberry_jam.gif
+https://images.neopets.com/items/gross_cornketchup.gif
+https://images.neopets.com/items/toy_eyepatch_earring.gif
+https://images.neopets.com/items/toy_kelby_push.gif
+https://images.neopets.com/items/grf_mashed_taters_n_mud.gif
+https://images.neopets.com/items/tro_fruitmallow_grog.gif
+https://images.neopets.com/items/grf_peanut_seaweed_gum.gif
+https://images.neopets.com/items/plu_pirate_bori.gif
+https://images.neopets.com/items/alkenore_pirate.gif
+https://images.neopets.com/items/groom_groovy_comb.gif
