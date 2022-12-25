@@ -72,3 +72,12 @@ https://images.neopets.com/items/grf_peanut_seaweed_gum.gif
 https://images.neopets.com/items/plu_pirate_bori.gif
 https://images.neopets.com/items/alkenore_pirate.gif
 https://images.neopets.com/items/groom_groovy_comb.gif
+https://images.neopets.com/items/gross_flypie.gif
+https://images.neopets.com/items/redfrostcannon.gif
+https://images.neopets.com/items/snowball_5.gif
+https://images.neopets.com/items/usuki_pirateset.gif
+https://images.neopets.com/items/grf_linty_bologna.gif
+https://images.neopets.com/items/grf_container_leftovers.gif
+https://images.neopets.com/items/sch_snowball_sharpener.gif
+https://images.neopets.com/items/spf_grapple_apple.gif
+https://images.neopets.com/items/spf_elppa_apple.gif
