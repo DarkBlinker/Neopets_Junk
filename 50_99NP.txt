@@ -28,3 +28,8 @@ https://images.neopets.com/items/bd_botfae1_water.gif
 https://images.neopets.com/items/toy_pinata_pawkeet.gif
 https://images.neopets.com/items/foo_smoked_tuna_on_chocolate_t.gif
 https://images.neopets.com/items/foo_trudy_lava_cake.gif
+https://images.neopets.com/items/grf_limemilkshake.gif
+https://images.neopets.com/items/ncl_boots.gif
+https://images.neopets.com/items/grf_grub_waffles.gif
+https://images.neopets.com/items/bd_botfae1_dark.gif
+https://images.neopets.com/items/gro_kiko_air_diffuser.gif
