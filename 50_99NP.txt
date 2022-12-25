@@ -5,3 +5,26 @@
 ! Expires: 1 days (update frequency)
 
 !--------------------------Junk Item's Images List-----------------------------!
+
+https://images.neopets.com/items/gross_maggotstew.gif
+https://images.neopets.com/items/snowball_6.gif
+https://images.neopets.com/items/gross_beetlebiscuit.gif
+https://images.neopets.com/items/bd_poisondagger.gif
+https://images.neopets.com/items/foo_icecream_ketchup.gif
+https://images.neopets.com/items/toy_peachia_clockwork.gif
+https://images.neopets.com/items/foo_aisha_burgerwcheese.gif
+https://images.neopets.com/items/foo_azzle_salad.gif
+https://images.neopets.com/items/grf_orange_coffee.gif
+https://images.neopets.com/items/toy_quiggle_snapgame.gif
+https://images.neopets.com/items/toy_quiggle_sockpuppet.gif
+https://images.neopets.com/items/boo_extreme_shenkuu.gif
+https://images.neopets.com/items/toy_koi_pullalong.gif
+https://images.neopets.com/items/toy_faellie_top.gif
+https://images.neopets.com/items/toy_gelert_ball.gif
+https://images.neopets.com/items/toy_negg_purple.gif
+https://images.neopets.com/items/bd_botfae1_earth.gif
+https://images.neopets.com/items/bd_botfae1_meta.gif
+https://images.neopets.com/items/bd_botfae1_water.gif
+https://images.neopets.com/items/toy_pinata_pawkeet.gif
+https://images.neopets.com/items/foo_smoked_tuna_on_chocolate_t.gif
+https://images.neopets.com/items/foo_trudy_lava_cake.gif
