@@ -38,3 +38,4 @@ https://images.neopets.com/items/toy_buzz_squirt.gif
 https://images.neopets.com/items/toy_balloon_y84.gif
 https://images.neopets.com/items/toy_kau_sockpuppet.gif
 https://images.neopets.com/items/plu_orncodestone.gif
+https://images.neopets.com/items/earth_comb.gif
