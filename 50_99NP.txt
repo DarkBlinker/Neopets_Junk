@@ -33,3 +33,8 @@ https://images.neopets.com/items/ncl_boots.gif
 https://images.neopets.com/items/grf_grub_waffles.gif
 https://images.neopets.com/items/bd_botfae1_dark.gif
 https://images.neopets.com/items/gro_kiko_air_diffuser.gif
+https://images.neopets.com/items/toy_jetsambath_fire.gif
+https://images.neopets.com/items/toy_buzz_squirt.gif
+https://images.neopets.com/items/toy_balloon_y84.gif
+https://images.neopets.com/items/toy_kau_sockpuppet.gif
+https://images.neopets.com/items/plu_orncodestone.gif
