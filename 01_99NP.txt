@@ -1,0 +1,23 @@
+[Adblock Plus 2.0]
+! Version: 20221225
+! Title: Neopets - Junk Item's Images Blocking List
+! Last modified: 25 Dec 2022 17:21 UTC
+! Expires: 1 days (update frequency)
+
+!--------------------------Junk Item's Images List-----------------------------!
+https://images.neopets.com/items/foo_aisha_burgerwcheese.gif
+https://images.neopets.com/items/toy_quiggle_snapgame.gif
+https://images.neopets.com/items/toy_quiggle_sockpuppet.gif
+https://images.neopets.com/items/can_saltwater_taffy.gif
+https://images.neopets.com/items/gif_flowery_necklace.gif
+https://images.neopets.com/items/toy_balloon_quetzal.gif
+https://images.neopets.com/items/boo_extreme_shenkuu.gif
+https://images.neopets.com/items/can_angryemoticonhearts.gif
+https://images.neopets.com/items/toy_koi_pullalong.gif
+https://images.neopets.com/items/toy_faellie_top.gif
+https://images.neopets.com/items/toy_gelert_ball.gif
+https://images.neopets.com/items/tiki_aisha_hula.gif
+https://images.neopets.com/items/toy_negg_purple.gif
+https://images.neopets.com/items/shf_chili_stirfry.gif
+https://images.neopets.com/items/spf_gd_non-cube_gelb.gif
+https://images.neopets.com/items/foo_smoked_tuna_on_chocolate_t.gif
