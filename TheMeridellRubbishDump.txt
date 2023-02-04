@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 20221225
 ! Title: Neopets - The Meridell Rubbish Dump
-! Last modified: 25 Dec 2022
+! Last modified: 4 Feb 2023
 ! Expires: 1 days (update frequency)
 
 !--------------------------Junk Item's Images List-----------------------------!
