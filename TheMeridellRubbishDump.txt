@@ -1,0 +1,33 @@
+[Adblock Plus 2.0]
+! Version: 20221225
+! Title: Neopets - The Meridell Rubbish Dump
+! Last modified: 25 Dec 2022
+! Expires: 1 days (update frequency)
+
+!--------------------------Junk Item's Images List-----------------------------!
+
+https://images.neopets.com/items/food_dung_pizza.gif
+https://images.neopets.com/items/slush_dung.gif
+https://images.neopets.com/items/codestone5.gif
+https://images.neopets.com/items/gross_chewingdung.gif
+https://images.neopets.com/items/med_booby_1.gif
+https://images.neopets.com/items/codestone9.gif
+https://images.neopets.com/items/potion7.gif
+https://images.neopets.com/items/potion8.gif
+https://images.neopets.com/items/potion9.gif
+https://images.neopets.com/items/potion11.gif
+https://images.neopets.com/items/med_booby_5.gif
+https://images.neopets.com/items/med_brokenspoon.gif
+https://images.neopets.com/items/med_babystack.gif
+https://images.neopets.com/items/boo_dung_compost.gif
+https://images.neopets.com/items/boo_dung_how.gif
+https://images.neopets.com/items/med_gravy.gif
+https://images.neopets.com/items/med_muddybone.gif
+https://images.neopets.com/items/med_breadcrust.gif
+https://images.neopets.com/items/med_oldpaper.gif
+https://images.neopets.com/items/med_gravelpacket.gif
+https://images.neopets.com/items/med_soggybox.gif
+https://images.neopets.com/items/med_tomsmoosh.gif
+https://images.neopets.com/items/med_seeds.gif
+https://images.neopets.com/items/med_fishbone.gif
+https://images.neopets.com/items/med_zeenanapeel.gif
