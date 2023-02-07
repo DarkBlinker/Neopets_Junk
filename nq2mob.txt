@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Version: 20221225
+! Title: Neopets - Junk Item's Images Blocking List 1NP - 49NP
+! Last modified: 25 Dec 2022
+! Expires: 1 days (update frequency)
+
+!--------------------------Junk Item's Images List-----------------------------!
+
+https://images.neopets.com/nq2/m/m2000_88956.gif
