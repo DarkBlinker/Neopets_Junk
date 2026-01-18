@@ -6,4 +6,36 @@
 
 !--------------------------Junk Item's Images List-----------------------------!
 
-||https://images.neopets.com/items/snowball_1.gif
+&&sub19=undefined&sub20=undefined
+&action=js_stats
+&ev=PageView&
+&event_name=view_item_list&
+&EventType=DataDealImpression&
+&EventType=Impression&
+&hitType=pageview&
+&http_referer=$script,xmlhttprequest,domain=~biletomat.pl|~facebook.com|~jobscore.com
+&refer=http$script
+&t=pageview&
+-adobe-analytics/
+-adobeDatalayer_bridge.js
+-click-tracker.
+-didomi.js
+-geoIP.js
+-inview-tracker.
+-scroll-tracker.js
+-track-inview.
+-tracking-pixel.
+-universal-analytics/
+.beacon.min.js
+.com/_.gif?
+.com/clk?
+.com/count?
+.com/counter?
+.com/dc.gif?
+.com/g.gif?
+.com/hit$ping
+.com/log/?
+.com/stats.aspx?
+.com/track?v=
+.content_tracking.js
+.de/l.gif?
