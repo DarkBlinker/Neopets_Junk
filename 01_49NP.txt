@@ -6,4 +6,4 @@
 
 !--------------------------Junk Item's Images List-----------------------------!
 
-https://images.neopets.com/items/snowball_1.gif
+||https://images.neopets.com/items/snowball_1.gif
