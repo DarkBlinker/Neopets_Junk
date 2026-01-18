@@ -6,4 +6,4 @@
 
 !--------------------------Junk Item's Images List-----------------------------!
 
-/can_piratehook_candycane.gif
+https://images.neopets.com/items/snowball_1.gif
